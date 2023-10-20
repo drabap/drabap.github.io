@@ -14,7 +14,6 @@
 fill: none;
 stroke: #30243C;
 stroke-width: 1.145;
-stroke-linecap: butt;
 stroke-linejoin: round;
 }
 .g1_15{

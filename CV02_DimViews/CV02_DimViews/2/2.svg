@@ -13,7 +13,6 @@
 fill: none;
 stroke: #30243C;
 stroke-width: 1.145;
-stroke-linecap: butt;
 stroke-linejoin: round;
 }
 .g1_2{
@@ -26,26 +25,24 @@ fill: #F07F09;
 fill: none;
 stroke: #B05C05;
 stroke-width: 1.527;
-stroke-linecap: butt;
 stroke-linejoin: round;
 }
 .g4_2{
 fill: #1B587C;
 }
 .g5_2{
+fill: #000;
 }
 .g6_2{
 fill: none;
 stroke: #1B587C;
 stroke-width: 1.527;
-stroke-linecap: butt;
 stroke-linejoin: round;
 }
 .g7_2{
 fill: none;
 stroke: #1B587C;
 stroke-width: 4.583;
-stroke-linecap: butt;
 stroke-linejoin: round;
 stroke-dasharray: 14,5;
 }
