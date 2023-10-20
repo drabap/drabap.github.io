@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_4"><path d="M0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="c1_4"><path d="M1118,85.8V0h86.5V85.8Z"/></clipPath>
+<clipPath id="c2_4"><path d="M0,275.7V237.1H1255.7v38.6Z"/></clipPath>
+<clipPath id="c3_4"><path d="M1273.4,254.5V237.1h192.9v17.4Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_4{
+fill: none;
+stroke: #30243C;
+stroke-width: 1.145;
+stroke-linejoin: round;
+}
+.g1_4{
+fill: #252525;
+}
+.g2_4{
+fill: #F07F09;
+}
+.g3_4{
+fill: #F07F09;
+fill-opacity: 0.2;
+}
+.g4_4{
+fill: none;
+stroke: #F07F09;
+stroke-width: 1.527;
+stroke-linejoin: round;
+}
+.g5_4{
+fill: none;
+stroke: #F07F09;
+stroke-width: 3.055;
+stroke-linejoin: round;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_4)">
+<image x="0" y="0" width="1467" height="825" xlink:href="shade/1.png"/>
+<image preserveAspectRatio="none" x="0" y="0" width="1467" height="825" xlink:href="img/1.png"/>
+<path d="M-4.1,100.1H1466.6" class="g0_4"/>
+</g>
+<image clip-path="url(#c1_4)" preserveAspectRatio="none" x="1118" y="0" width="87" height="86" xlink:href="img/2.png"/>
+<image clip-path="url(#c2_4)" preserveAspectRatio="none" x="0" y="237" width="1256" height="39" xlink:href="img/3.png"/>
+<image clip-path="url(#c3_4)" preserveAspectRatio="none" x="1273" y="237" width="193" height="17" xlink:href="img/4.png"/>
+<path fill-rule="evenodd" d="M0,238H1255.7V73.3H0V238Z" class="g1_4"/>
+<path fill-rule="evenodd" d="M1273.4,238h192.9V73.3H1273.4V238Z" class="g2_4"/>
+<path fill-rule="evenodd" d="M81.8,399.6H234.1V288.5H81.8V399.6Z" class="g3_4"/>
+<path fill-rule="evenodd" d="M234.1,399.6H501.9V288.5H234.1V399.6Z" class="g3_4"/>
+<path fill-rule="evenodd" d="M501.9,399.6H870.1V288.5H501.9V399.6Z" class="g3_4"/>
+<path fill-rule="evenodd" d="M870.1,399.6h368.3V288.5H870.1V399.6Z" class="g3_4"/>
+<path d="M234.1,247.4V697.7M501.9,247.4V697.7M870.1,247.4V697.7" class="g4_4"/>
+<path d="M81.1,288.5h1158" class="g5_4"/>
+<path d="M81.1,399.6h1158M81.8,247.4V697.7M1238.4,247.4V697.7M81.1,248.1h1158M81.1,696.9h1158" class="g4_4"/>
+</svg>
