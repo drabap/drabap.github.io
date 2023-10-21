@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_7"><path d="M0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="c1_7"><path d="M1139.1,75.4V10.5h65V75.4Z"/></clipPath>
+<clipPath id="c2_7"><path d="M0,275.7V237.1H1255.7v38.6Z"/></clipPath>
+<clipPath id="c3_7"><path d="M1273.4,254.5V237.1h192.9v17.4Z"/></clipPath>
+<clipPath id="c4_7"><path d="M1445.4,582.1V235.8H1172.6V582.1ZM0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="c5_7"><path d="M1162.9,756.8V626.6H825.7V756.8ZM0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="c6_7"><path d="M1162.9,604.1V114.6H825.7V604.1ZM0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="c7_7"><path d="M962.5,540.7c32.9,0,59.6,-3.3,59.6,-7.4V489c0,-4.1,-26.7,-7.4,-59.6,-7.4c-32.9,0,-59.6,3.3,-59.6,7.4v44.3c0,4.1,26.7,7.4,59.6,7.4ZM0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="c8_7"><path d="M980.8,559c32.9,0,59.6,-3.3,59.6,-7.4V507.3c0,-4.1,-26.7,-7.3,-59.6,-7.3c-32.9,0,-59.5,3.2,-59.5,7.3v44.3c0,4.1,26.6,7.4,59.5,7.4ZM0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="c9_7"><path d="M999.2,577.3c32.9,0,59.6,-3.3,59.6,-7.4V525.7c0,-4.1,-26.7,-7.4,-59.6,-7.4c-32.9,0,-59.6,3.3,-59.6,7.4v44.2c0,4.1,26.7,7.4,59.6,7.4ZM0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="ca_7"><path d="M1328.3,455l-53.2,-86.1L1224.3,455ZM0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="cb_7"><path d="M1466.7,825H0V0H1466.7V825Z"/></clipPath>
+<clipPath id="cc_7"><path d="M992.9,648.8V606.2H1003L982.8,585.9l-20.3,20.3h10.1v42.6ZM0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="cd_7"><path d="M976.4,261.3c32.9,0,59.6,-5.4,59.6,-12.1V177c0,-6.6,-26.7,-12,-59.6,-12c-32.9,0,-59.5,5.4,-59.5,12v72.2c0,6.7,26.6,12.1,59.5,12.1ZM0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="ce_7"><path d="M956.4,271.5V245.7h-26v25.8ZM0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="cf_7"><path d="M930.4,271.5V245.7H904.6v25.8ZM0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="cg_7"><path d="M956.4,244.6V218.7h-26v25.9ZM0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="ch_7"><path d="M930.4,244.6V218.7H904.6v25.9ZM0,825V0H1466.7V825Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_7{
+fill: none;
+stroke: #30243C;
+stroke-width: 1.145;
+stroke-linejoin: round;
+}
+.g1_7{
+fill: #252525;
+}
+.g2_7{
+fill: #F07F09;
+}
+.g3_7{
+fill: #1B587C;
+}
+.g4_7{
+fill: none;
+stroke: #B05C05;
+stroke-width: 1.527;
+stroke-linejoin: round;
+}
+.g5_7{
+fill: #FBCC9A;
+}
+.g6_7{
+fill: #771F28;
+}
+.g7_7{
+fill: none;
+stroke: #50141B;
+stroke-width: 1.527;
+stroke-linejoin: round;
+}
+.g8_7{
+fill: #F00;
+}
+.g9_7{
+fill: #9F2936;
+}
+.ga_7{
+fill: none;
+stroke: #741B25;
+stroke-width: 1.527;
+stroke-miterlimit: 8;
+}
+.gb_7{
+fill: none;
+stroke: #B05C05;
+stroke-width: 1.527;
+stroke-linejoin: round;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_7)">
+<image x="0" y="0" width="1467" height="825" xlink:href="shade/1.png"/>
+<image preserveAspectRatio="none" x="0" y="0" width="1467" height="825" xlink:href="img/1.png"/>
+<path d="M-4.1,100.1H1466.6" class="g0_7"/>
+</g>
+<image clip-path="url(#c1_7)" preserveAspectRatio="none" x="1139" y="10" width="65" height="65" xlink:href="img/2.png"/>
+<image clip-path="url(#c2_7)" preserveAspectRatio="none" x="0" y="237" width="1256" height="39" xlink:href="img/3.png"/>
+<image clip-path="url(#c3_7)" preserveAspectRatio="none" x="1273" y="237" width="193" height="17" xlink:href="img/4.png"/>
+<path fill-rule="evenodd" d="M0,238H1255.7V73.3H0V238Z" class="g1_7"/>
+<path fill-rule="evenodd" d="M1273.4,238h192.9V73.3H1273.4V238Z" class="g2_7"/>
+<image clip-path="url(#c4_7)" preserveAspectRatio="none" x="1161" y="224" width="295" height="370" xlink:href="img/5.png"/>
+<path fill-rule="evenodd" d="M1172.6,582.1h272.8V235.8H1172.6V582.1Z" class="g3_7"/>
+<path d="M1172.6,582.1h272.8V235.8H1172.6V582.1Z" class="g4_7"/>
+<image clip-path="url(#c5_7)" preserveAspectRatio="none" x="814" y="617" width="360" height="149" xlink:href="img/6.png"/>
+<path fill-rule="evenodd" d="M825.7,756.8h337.2V626.6H825.7V756.8Z" class="g2_7"/>
+<path d="M825.7,756.8h337.2V626.6H825.7V756.8Z" class="g4_7"/>
+<image clip-path="url(#c6_7)" preserveAspectRatio="none" x="814" y="101" width="360" height="516" xlink:href="img/7.png"/>
+<path fill-rule="evenodd" d="M825.7,604.1h337.2V114.6H825.7V604.1Z" class="g5_7"/>
+<path d="M825.7,604.1h337.2V114.6H825.7V604.1Z" class="g4_7"/>
+<image clip-path="url(#c7_7)" preserveAspectRatio="none" x="893" y="472" width="138" height="77" xlink:href="img/8.png"/>
+<image x="902" y="488" width="121" height="53" xlink:href="shade/2.png"/>
+<image x="902" y="481" width="121" height="16" xlink:href="shade/3.png"/>
+<path d="M1022.1,489c0,4.1,-26.7,7.4,-59.6,7.4c-32.9,0,-59.6,-3.3,-59.6,-7.4c0,-4.1,26.7,-7.4,59.6,-7.4c32.9,0,59.6,3.3,59.6,7.4v44.3c0,4.1,-26.7,7.4,-59.6,7.4c-32.9,0,-59.6,-3.3,-59.6,-7.4V489" class="g4_7"/>
+<image clip-path="url(#c8_7)" preserveAspectRatio="none" x="911" y="491" width="139" height="77" xlink:href="img/9.png"/>
+<image x="921" y="507" width="120" height="52" xlink:href="shade/4.png"/>
+<image x="921" y="499" width="120" height="16" xlink:href="shade/5.png"/>
+<path d="M1040.4,507.3c0,4.1,-26.7,7.4,-59.6,7.4c-32.9,0,-59.5,-3.3,-59.5,-7.4c0,-4.1,26.6,-7.3,59.5,-7.3c32.9,0,59.6,3.2,59.6,7.3v44.3c0,4.1,-26.7,7.4,-59.6,7.4c-32.9,0,-59.5,-3.3,-59.5,-7.4V507.3" class="g4_7"/>
+<image clip-path="url(#c9_7)" preserveAspectRatio="none" x="930" y="509" width="138" height="77" xlink:href="img/10.png"/>
+<image x="939" y="525" width="120" height="53" xlink:href="shade/6.png"/>
+<image x="939" y="518" width="120" height="16" xlink:href="shade/7.png"/>
+<path d="M1058.8,525.7c0,4,-26.7,7.3,-59.6,7.3c-32.9,0,-59.6,-3.3,-59.6,-7.3c0,-4.1,26.7,-7.4,59.6,-7.4c32.9,0,59.6,3.3,59.6,7.4v44.2c0,4.1,-26.7,7.4,-59.6,7.4c-32.9,0,-59.6,-3.3,-59.6,-7.4V525.7" class="g4_7"/>
+<image clip-path="url(#ca_7)" preserveAspectRatio="none" x="1215" y="359" width="122" height="105" xlink:href="img/11.png"/>
+<path fill-rule="evenodd" d="M1224.3,455l50.8,-86.1l53.2,86.1Z" class="g6_7"/>
+<path d="M1224.3,455l50.8,-86.1l53.2,86.1Z" class="g7_7"/>
+<g clip-path="url(#c0_7)">
+<image preserveAspectRatio="none" x="1224" y="437" width="62" height="80" xlink:href="img/12.png"/>
+<path d="M1278,509.3V482.2c0,-.9,-.7,-1.5,-1.5,-1.5h-35.2l1.5,1.5V462.8h-3.1v19.4c0,.8,.7,1.5,1.6,1.5h35.2l-1.6,-1.5v27.1Zm-32.2,-45l-4.5,-9.2l-4.6,9.2Z" class="g8_7"/>
+<image preserveAspectRatio="none" x="1267" y="438" width="52" height="95" xlink:href="img/13.png"/>
+</g>
+<path clip-path="url(#cb_7)" d="M1274.9,524.7V490.5c0,-.9,.7,-1.6,1.6,-1.6h25.3l-1.5,1.6V463.9h3.1v26.6c0,.8,-.7,1.5,-1.6,1.5h-25.3l1.5,-1.5v34.2Zm22.4,-59.3l4.5,-9.2l4.6,9.2Z" class="g8_7"/>
+<image clip-path="url(#c0_7)" preserveAspectRatio="none" x="1031" y="509" width="263" height="34" xlink:href="img/14.png"/>
+<path d="M1040.9,523.3H1158c.9,0,1.5,.7,1.5,1.5v1.5l-1.5,-1.5h109.5v3H1158c-.8,0,-1.5,-.6,-1.5,-1.5v-1.5l1.5,1.5H1040.9ZM1266,521.7l9.2,4.6l-9.2,4.6Z" class="g8_7"/>
+<image clip-path="url(#c0_7)" preserveAspectRatio="none" x="953" y="242" width="40" height="249" xlink:href="img/15.png"/>
+<path d="M961.1,481.7V389.3c0,-.9,.7,-1.6,1.5,-1.6h13.9l-1.5,1.6V269h3V389.3c0,.8,-.7,1.5,-1.5,1.5H962.6l1.5,-1.5v92.4ZM971.9,270.5l4.6,-9.2l4.6,9.2Z" class="g8_7"/>
+<g clip-path="url(#c0_7)">
+<image preserveAspectRatio="none" x="959" y="242" width="50" height="286" xlink:href="img/16.png"/>
+<path d="M1000.8,518.4V389.9c0,-.9,-.7,-1.6,-1.5,-1.6H976.5l1.6,1.6V269H975V389.9c0,.8,.7,1.5,1.5,1.5h22.8l-1.6,-1.5V518.4ZM981.1,270.5l-4.6,-9.2l-4.6,9.2Z" class="g8_7"/>
+<image preserveAspectRatio="none" x="956" y="243" width="331" height="134" xlink:href="img/17.png"/>
+<path d="M1276.7,368.9V315.1c0,-.8,-.6,-1.5,-1.5,-1.5H976.5l1.6,1.5V269H975v46.1c0,.9,.7,1.6,1.5,1.6h298.7l-1.5,-1.6v53.8ZM981.1,270.5l-4.6,-9.2l-4.6,9.2Z" class="g8_7"/>
+</g>
+<image clip-path="url(#cc_7)" preserveAspectRatio="none" x="952" y="576" width="61" height="82" xlink:href="img/18.png"/>
+<path fill-rule="evenodd" d="M1003,606.2H992.9v42.6H972.6V606.2H962.5l20.3,-20.3Z" class="g9_7"/>
+<path d="M1003,606.2H992.9v42.6H972.6V606.2H962.5l20.3,-20.3Z" class="ga_7"/>
+<image clip-path="url(#cd_7)" preserveAspectRatio="none" x="907" y="155" width="138" height="115" xlink:href="img/19.png"/>
+<image x="916" y="177" width="121" height="85" xlink:href="shade/8.png"/>
+<image x="916" y="165" width="121" height="25" xlink:href="shade/9.png"/>
+<path d="M1036,177c0,6.7,-26.7,12.1,-59.6,12.1c-32.9,0,-59.5,-5.4,-59.5,-12.1c0,-6.6,26.6,-12,59.5,-12c32.9,0,59.6,5.4,59.6,12v72.2c0,6.7,-26.7,12.1,-59.6,12.1c-32.9,0,-59.5,-5.4,-59.5,-12.1V177" class="gb_7"/>
+<image clip-path="url(#ce_7)" preserveAspectRatio="none" x="921" y="237" width="44" height="43" xlink:href="img/20.png"/>
+<image x="930" y="245" width="27" height="27" xlink:href="shade/10.png"/>
+<path d="M930.4,271.5h26V245.7h-26v25.8Z" class="gb_7"/>
+<image clip-path="url(#cf_7)" preserveAspectRatio="none" x="896" y="237" width="43" height="43" xlink:href="img/21.png"/>
+<image x="904" y="245" width="27" height="27" xlink:href="shade/11.png"/>
+<path d="M904.6,271.5h25.8V245.7H904.6v25.8Z" class="gb_7"/>
+<image clip-path="url(#cg_7)" preserveAspectRatio="none" x="921" y="210" width="44" height="43" xlink:href="img/22.png"/>
+<image x="930" y="218" width="27" height="27" xlink:href="shade/12.png"/>
+<path d="M930.4,244.6h26V218.7h-26v25.9Z" class="gb_7"/>
+<image clip-path="url(#ch_7)" preserveAspectRatio="none" x="896" y="210" width="43" height="43" xlink:href="img/23.png"/>
+<image x="904" y="218" width="27" height="27" xlink:href="shade/13.png"/>
+<path d="M904.6,244.6h25.8V218.7H904.6v25.9Z" class="gb_7"/>
+</svg>
