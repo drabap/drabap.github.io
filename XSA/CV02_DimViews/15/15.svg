@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_15"><path d="M0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="c1_15"><path d="M1120.2,84.3V8.4h75.7V84.3Z"/></clipPath>
+<clipPath id="c2_15"><path d="M0,275.7V237.1H1255.7v38.6Z"/></clipPath>
+<clipPath id="c3_15"><path d="M1273.4,254.5V237.1h192.9v17.4Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_15{
+fill: none;
+stroke: #30243C;
+stroke-width: 1.145;
+stroke-linejoin: round;
+}
+.g1_15{
+fill: #252525;
+}
+.g2_15{
+fill: #F07F09;
+}
+.g3_15{
+fill: #F9D8CC;
+}
+.g4_15{
+fill: #FCECE7;
+}
+.g5_15{
+fill: none;
+stroke: #FFF;
+stroke-width: 1.527;
+stroke-linejoin: round;
+}
+.g6_15{
+fill: none;
+stroke: #FFF;
+stroke-width: 4.583;
+stroke-linejoin: round;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_15)">
+<image x="0" y="0" width="1467" height="825" xlink:href="shade/1.png"/>
+<image preserveAspectRatio="none" x="0" y="0" width="1467" height="825" xlink:href="img/1.png"/>
+<path d="M-4.1,100.1H1466.6" class="g0_15"/>
+</g>
+<image clip-path="url(#c1_15)" preserveAspectRatio="none" x="1120" y="8" width="76" height="76" xlink:href="img/2.png"/>
+<image clip-path="url(#c2_15)" preserveAspectRatio="none" x="0" y="237" width="1256" height="39" xlink:href="img/3.png"/>
+<image clip-path="url(#c3_15)" preserveAspectRatio="none" x="1273" y="237" width="193" height="17" xlink:href="img/4.png"/>
+<path fill-rule="evenodd" d="M0,238H1255.7V73.3H0V238Z" class="g1_15"/>
+<path fill-rule="evenodd" d="M1273.4,238h192.9V73.3H1273.4V238Z" class="g2_15"/>
+<path fill-rule="evenodd" d="M810.5,293.6h224.8v-44H810.5v44Z" class="g2_15"/>
+<path fill-rule="evenodd" d="M1035.3,293.6h186.2v-44H1035.3v44Z" class="g2_15"/>
+<path fill-rule="evenodd" d="M1221.5,293.6h204.1v-44H1221.5v44Z" class="g2_15"/>
+<path fill-rule="evenodd" d="M810.5,334h224.8V293.6H810.5V334Z" class="g3_15"/>
+<path fill-rule="evenodd" d="M1035.3,334h186.2V293.6H1035.3V334Z" class="g3_15"/>
+<path fill-rule="evenodd" d="M1221.5,334h204.1V293.6H1221.5V334Z" class="g3_15"/>
+<path fill-rule="evenodd" d="M810.5,374.5h224.8V334.1H810.5v40.4Z" class="g4_15"/>
+<path fill-rule="evenodd" d="M1035.3,374.5h186.2V334.1H1035.3v40.4Z" class="g4_15"/>
+<path fill-rule="evenodd" d="M1221.5,374.5h204.1V334.1H1221.5v40.4Z" class="g4_15"/>
+<path fill-rule="evenodd" d="M810.5,415h224.8V374.5H810.5V415Z" class="g3_15"/>
+<path fill-rule="evenodd" d="M1035.3,415h186.2V374.5H1035.3V415Z" class="g3_15"/>
+<path fill-rule="evenodd" d="M1221.5,415h204.1V374.5H1221.5V415Z" class="g3_15"/>
+<path fill-rule="evenodd" d="M810.5,455.4h224.8V414.9H810.5v40.5Z" class="g4_15"/>
+<path fill-rule="evenodd" d="M1035.3,455.4h186.2V414.9H1035.3v40.5Z" class="g4_15"/>
+<path fill-rule="evenodd" d="M1221.5,455.4h204.1V414.9H1221.5v40.5Z" class="g4_15"/>
+<path fill-rule="evenodd" d="M810.5,517.7h224.8V455.4H810.5v62.3Z" class="g3_15"/>
+<path fill-rule="evenodd" d="M1035.3,517.7h186.2V455.4H1035.3v62.3Z" class="g3_15"/>
+<path fill-rule="evenodd" d="M1221.5,517.7h204.1V455.4H1221.5v62.3Z" class="g3_15"/>
+<path fill-rule="evenodd" d="M810.5,580.1h224.8V517.7H810.5v62.4Z" class="g4_15"/>
+<path fill-rule="evenodd" d="M1035.3,580.1h186.2V517.7H1035.3v62.4Z" class="g4_15"/>
+<path fill-rule="evenodd" d="M1221.5,580.1h204.1V517.7H1221.5v62.4Z" class="g4_15"/>
+<path fill-rule="evenodd" d="M810.5,620.5h224.8V580.1H810.5v40.4Z" class="g3_15"/>
+<path fill-rule="evenodd" d="M1035.3,620.5h186.2V580.1H1035.3v40.4Z" class="g3_15"/>
+<path fill-rule="evenodd" d="M1221.5,620.5h204.1V580.1H1221.5v40.4Z" class="g3_15"/>
+<path d="M1035.3,248.8V621.3M1221.5,248.8V621.3" class="g5_15"/>
+<path d="M809.7,293.6h616.7" class="g6_15"/>
+<path d="M809.7,334h616.7M809.7,374.5h616.7M809.7,415h616.7M809.7,455.4h616.7M809.7,517.7h616.7M809.7,580.1h616.7M810.5,248.8V621.3M1425.6,248.8V621.3M809.7,249.6h616.7M809.7,620.5h616.7" class="g5_15"/>
+</svg>
