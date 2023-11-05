@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_26"><path d="M0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="c1_26"><path d="M1135.9,72.6V2.6H1206v70Z"/></clipPath>
+<clipPath id="c2_26"><path d="M0,275.7V237.1H1255.7v38.6Z"/></clipPath>
+<clipPath id="c3_26"><path d="M1273.4,254.5V237.1h192.9v17.4Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_26{
+fill: none;
+stroke: #30243C;
+stroke-width: 1.145;
+stroke-linejoin: round;
+}
+.g1_26{
+fill: #252525;
+}
+.g2_26{
+fill: #F07F09;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_26)">
+<image x="0" y="0" width="1467" height="825" xlink:href="shade/1.png"/>
+<image preserveAspectRatio="none" x="0" y="0" width="1467" height="825" xlink:href="img/1.png"/>
+<path d="M-4.1,100.1H1466.6" class="g0_26"/>
+</g>
+<image clip-path="url(#c1_26)" preserveAspectRatio="none" x="1136" y="3" width="70" height="70" xlink:href="img/2.png"/>
+<image clip-path="url(#c2_26)" preserveAspectRatio="none" x="0" y="237" width="1256" height="39" xlink:href="img/3.png"/>
+<image clip-path="url(#c3_26)" preserveAspectRatio="none" x="1273" y="237" width="193" height="17" xlink:href="img/4.png"/>
+<path fill-rule="evenodd" d="M0,238H1255.7V73.3H0V238Z" class="g1_26"/>
+<path fill-rule="evenodd" d="M1273.4,238h192.9V73.3H1273.4V238Z" class="g2_26"/>
+<g clip-path="url(#c0_26)">
+<image preserveAspectRatio="none" x="64" y="265" width="67" height="82" xlink:href="img/5.png"/>
+<image preserveAspectRatio="none" x="91" y="262" width="434" height="86" xlink:href="img/6.png"/>
+<image preserveAspectRatio="none" x="91" y="295" width="208" height="86" xlink:href="img/7.png"/>
+<image preserveAspectRatio="none" x="64" y="346" width="67" height="82" xlink:href="img/8.png"/>
+<image preserveAspectRatio="none" x="91" y="344" width="522" height="86" xlink:href="img/9.png"/>
+<image preserveAspectRatio="none" x="64" y="395" width="67" height="81" xlink:href="img/10.png"/>
+<image preserveAspectRatio="none" x="91" y="392" width="558" height="86" xlink:href="img/11.png"/>
+<image preserveAspectRatio="none" x="64" y="443" width="67" height="81" xlink:href="img/12.png"/>
+<image preserveAspectRatio="none" x="91" y="440" width="124" height="86" xlink:href="img/13.png"/>
+<image preserveAspectRatio="none" x="157" y="440" width="69" height="86" xlink:href="img/14.png"/>
+<image preserveAspectRatio="none" x="168" y="440" width="239" height="86" xlink:href="img/15.png"/>
+<image preserveAspectRatio="none" x="348" y="440" width="162" height="86" xlink:href="img/16.png"/>
+<image preserveAspectRatio="none" x="451" y="440" width="81" height="86" xlink:href="img/17.png"/>
+<image preserveAspectRatio="none" x="122" y="485" width="61" height="74" xlink:href="img/18.png"/>
+<image preserveAspectRatio="none" x="148" y="483" width="113" height="78" xlink:href="img/19.png"/>
+<image preserveAspectRatio="none" x="122" y="523" width="61" height="74" xlink:href="img/20.png"/>
+<image preserveAspectRatio="none" x="148" y="520" width="127" height="78" xlink:href="img/21.png"/>
+<image preserveAspectRatio="none" x="230" y="520" width="112" height="78" xlink:href="img/22.png"/>
+<image preserveAspectRatio="none" x="64" y="566" width="67" height="81" xlink:href="img/23.png"/>
+<image preserveAspectRatio="none" x="91" y="563" width="143" height="86" xlink:href="img/24.png"/>
+<image preserveAspectRatio="none" x="175" y="563" width="70" height="86" xlink:href="img/25.png"/>
+<image preserveAspectRatio="none" x="186" y="563" width="194" height="86" xlink:href="img/26.png"/>
+<image preserveAspectRatio="none" x="64" y="614" width="67" height="82" xlink:href="img/27.png"/>
+<image preserveAspectRatio="none" x="91" y="611" width="463" height="86" xlink:href="img/28.png"/>
+<image preserveAspectRatio="none" x="656" y="265" width="66" height="82" xlink:href="img/29.png"/>
+<image preserveAspectRatio="none" x="682" y="262" width="105" height="86" xlink:href="img/30.png"/>
+<image preserveAspectRatio="none" x="729" y="262" width="70" height="86" xlink:href="img/31.png"/>
+<image preserveAspectRatio="none" x="713" y="307" width="61" height="75" xlink:href="img/32.png"/>
+<image preserveAspectRatio="none" x="739" y="305" width="442" height="78" xlink:href="img/33.png"/>
+<image preserveAspectRatio="none" x="739" y="335" width="364" height="78" xlink:href="img/34.png"/>
+<image preserveAspectRatio="none" x="713" y="374" width="61" height="75" xlink:href="img/35.png"/>
+<image preserveAspectRatio="none" x="739" y="372" width="460" height="78" xlink:href="img/36.png"/>
+<image preserveAspectRatio="none" x="739" y="402" width="436" height="78" xlink:href="img/37.png"/>
+<image preserveAspectRatio="none" x="713" y="441" width="61" height="75" xlink:href="img/38.png"/>
+<image preserveAspectRatio="none" x="739" y="439" width="484" height="78" xlink:href="img/39.png"/>
+<image preserveAspectRatio="none" x="739" y="469" width="432" height="78" xlink:href="img/40.png"/>
+</g>
+</svg>

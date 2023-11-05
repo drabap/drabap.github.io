@@ -23,6 +23,15 @@ fill: #252525;
 .g3_2{
 fill: #4A66AC;
 }
+.g4_2{
+fill: #ACCBF9;
+}
+.g5_2{
+fill: none;
+stroke: #FFF;
+stroke-width: 1.527;
+stroke-linejoin: round;
+}
 ]]></style>
 </defs>
 <g clip-path="url(#c0_2)">
@@ -35,4 +44,9 @@ fill: #4A66AC;
 <image clip-path="url(#c3_2)" preserveAspectRatio="none" x="1273" y="237" width="193" height="17" xlink:href="img/4.png"/>
 <path fill-rule="evenodd" d="M0,238H1255.7V73.3H0V238Z" class="g2_2"/>
 <path fill-rule="evenodd" d="M1273.4,238h192.9V73.3H1273.4V238Z" class="g3_2"/>
+<path fill-rule="evenodd" d="M55.7,446.3H356.6v-176H55.7v176Z" class="g4_2"/>
+<path fill-rule="evenodd" d="M356.6,446.3H1411v-176H356.6v176Z" class="g4_2"/>
+<path fill-rule="evenodd" d="M55.7,622.3H356.6v-176H55.7v176Z" class="g4_2"/>
+<path fill-rule="evenodd" d="M356.6,622.3H1411v-176H356.6v176Z" class="g4_2"/>
+<path d="M356.6,269.6V623.1M54.9,446.3H1411.8M55.7,269.6V623.1M1411,269.6V623.1M54.9,270.3H1411.8M54.9,622.3H1411.8" class="g5_2"/>
 </svg>

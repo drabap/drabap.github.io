@@ -7,7 +7,6 @@
 <clipPath id="c1_10"><path d="M1127,85.8V10.1h75.7V85.8Z"/></clipPath>
 <clipPath id="c2_10"><path d="M0,275.7V237.1H1255.7v38.6Z"/></clipPath>
 <clipPath id="c3_10"><path d="M1273.4,254.5V237.1h192.9v17.4Z"/></clipPath>
-<clipPath id="c4_10"><path d="M408.7,713.9V281.2h503V713.9Z"/></clipPath>
 <style type="text/css"><![CDATA[
 .g0_10{
 fill: #3E3E3E;
@@ -36,5 +35,4 @@ fill: #4A66AC;
 <image clip-path="url(#c3_10)" preserveAspectRatio="none" x="1273" y="237" width="193" height="17" xlink:href="img/4.png"/>
 <path fill-rule="evenodd" d="M0,238H1255.7V73.3H0V238Z" class="g2_10"/>
 <path fill-rule="evenodd" d="M1273.4,238h192.9V73.3H1273.4V238Z" class="g3_10"/>
-<image clip-path="url(#c4_10)" preserveAspectRatio="none" x="409" y="281" width="503" height="433" xlink:href="img/5.png"/>
 </svg>

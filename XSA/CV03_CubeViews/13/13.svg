@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_13"><path d="M0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="c1_13"><path d="M1135.9,72.6V2.6H1206v70Z"/></clipPath>
+<clipPath id="c2_13"><path d="M0,275.7V237.1H1255.7v38.6Z"/></clipPath>
+<clipPath id="c3_13"><path d="M1273.4,254.5V237.1h192.9v17.4Z"/></clipPath>
+<clipPath id="c4_13"><path d="M550.9,427.7V281h519.6V427.7Z"/></clipPath>
+<clipPath id="c5_13"><path d="M550.9,652.3V452.5h784.5V652.3Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_13{
+fill: none;
+stroke: #30243C;
+stroke-width: 1.145;
+stroke-linejoin: round;
+}
+.g1_13{
+fill: #252525;
+}
+.g2_13{
+fill: #F07F09;
+}
+.g3_13{
+fill: #1B1810;
+}
+.g4_13{
+fill: none;
+stroke: #FFF;
+stroke-width: 1.145;
+stroke-linejoin: round;
+stroke-dasharray: 10,4;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_13)">
+<image x="0" y="0" width="1467" height="825" xlink:href="shade/1.png"/>
+<image preserveAspectRatio="none" x="0" y="0" width="1467" height="825" xlink:href="img/1.png"/>
+<path d="M-4.1,100.1H1466.6" class="g0_13"/>
+</g>
+<image clip-path="url(#c1_13)" preserveAspectRatio="none" x="1136" y="3" width="70" height="70" xlink:href="img/2.png"/>
+<image clip-path="url(#c2_13)" preserveAspectRatio="none" x="0" y="237" width="1256" height="39" xlink:href="img/3.png"/>
+<image clip-path="url(#c3_13)" preserveAspectRatio="none" x="1273" y="237" width="193" height="17" xlink:href="img/4.png"/>
+<path fill-rule="evenodd" d="M0,238H1255.7V73.3H0V238Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M1273.4,238h192.9V73.3H1273.4V238Z" class="g2_13"/>
+<path fill-rule="evenodd" d="M81.8,714.1H537.7V281H81.8V714.1Z" class="g2_13"/>
+<image clip-path="url(#c4_13)" preserveAspectRatio="none" x="551" y="281" width="519" height="147" xlink:href="img/5.jpg"/>
+<image clip-path="url(#c5_13)" preserveAspectRatio="none" x="551" y="452" width="784" height="200" xlink:href="img/6.jpg"/>
+<path fill-rule="evenodd" d="M550.9,791.6h623.5V680.5H550.9V791.6Z" class="g3_13"/>
+<path d="M550.9,791.6h623.5V680.5H550.9V791.6Z" class="g4_13"/>
+</svg>

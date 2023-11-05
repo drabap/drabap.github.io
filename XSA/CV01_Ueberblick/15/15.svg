@@ -32,6 +32,8 @@ stroke-linejoin: round;
 <path d="M-4.1,100.1H1466.6" class="g1_15"/>
 </g>
 <image clip-path="url(#c1_15)" preserveAspectRatio="none" x="1127" y="10" width="76" height="76" xlink:href="img/2.png"/>
-<path fill-rule="evenodd" d="M53.7,454.7H1409.1V214.5H53.7V454.7Z" class="g2_15"/>
-<path d="M53.7,454.7H1409.1V214.5H53.7V454.7Z" class="g3_15"/>
+<path fill-rule="evenodd" d="M53.7,657.3H712.3V214.5H53.7V657.3Z" class="g2_15"/>
+<path d="M53.7,657.3H712.3V214.5H53.7V657.3Z" class="g3_15"/>
+<path fill-rule="evenodd" d="M838.8,657.3h562.1V214.5H838.8V657.3Z" class="g2_15"/>
+<path d="M838.8,657.3h562.1V214.5H838.8V657.3Z" class="g3_15"/>
 </svg>
