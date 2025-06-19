@@ -1,0 +1,21 @@
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="c0_9"><path d="M-.2 825.3V-.2H1467V825.3Z"/></clipPath>
+<clipPath id="c1_9"><path d="M1117.7 86.1V-.2h87.2V86.1Z"/></clipPath>
+<style>
+.g0_9{fill:none;stroke:#30243C;stroke-width:1.145;stroke-linejoin:round;}
+.g1_9{fill:#F07F09;}
+.g2_9{fill:none;stroke:#B45F07;stroke-width:1.145;stroke-linejoin:round;}
+</style>
+</defs>
+<g clip-path="url(#c0_9)">
+<image x="0" y="0" width="1467" height="825" href="shade/1.png"/>
+<image preserveAspectRatio="none" x="0" y="0" width="1467" height="825" href="img/1.png"/>
+<path d="M-4.1 100.2H1466.7" class="g0_9"/>
+</g>
+<image clip-path="url(#c1_9)" preserveAspectRatio="none" x="1118" y="0" width="87" height="86" href="img/2.png"/>
+<path fill-rule="evenodd" d="M53.7 471H1409V214.5H53.7V471Z" class="g1_9"/>
+<path d="M53.7 471H1409V214.5H53.7V471Z" class="g2_9"/>
+<path fill-rule="evenodd" d="M53.6 699.3H1408.9V485.9H53.6V699.3Z" class="g1_9"/>
+<path d="M53.6 699.3H1408.9V485.9H53.6V699.3Z" class="g2_9"/>
+</svg>

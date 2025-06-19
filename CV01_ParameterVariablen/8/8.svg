@@ -1,0 +1,35 @@
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="c0_8"><path d="M-.2 825.3V-.2H1467V825.3Z"/></clipPath>
+<clipPath id="c1_8"><path d="M1117.7 86.1V-.2h87.2V86.1Z"/></clipPath>
+<clipPath id="c2_8"><path d="M-.2 276V236.7H1256V276Z"/></clipPath>
+<clipPath id="c3_8"><path d="M1273.1 254.8v-18h193.5v18Z"/></clipPath>
+<style>
+.g0_8{fill:none;stroke:#30243C;stroke-width:1.145;stroke-linejoin:round;}
+.g1_8{fill:#252525;}
+.g2_8{fill:#F07F09;}
+.g3_8{fill:#F07F09;fill-opacity:0.2;}
+.g4_8{fill:none;stroke:#F07F09;stroke-width:1.527;stroke-linejoin:round;}
+.g5_8{fill:none;stroke:#F07F09;stroke-width:3.055;stroke-linejoin:round;}
+</style>
+</defs>
+<g clip-path="url(#c0_8)">
+<image x="0" y="0" width="1467" height="825" href="shade/1.png"/>
+<image preserveAspectRatio="none" x="0" y="0" width="1467" height="825" href="img/1.png"/>
+<path d="M-4.1 100.2H1466.7" class="g0_8"/>
+</g>
+<image clip-path="url(#c1_8)" preserveAspectRatio="none" x="1118" y="0" width="87" height="86" href="img/2.png"/>
+<image clip-path="url(#c2_8)" preserveAspectRatio="none" x="0" y="237" width="1256" height="39" href="img/3.png"/>
+<image clip-path="url(#c3_8)" preserveAspectRatio="none" x="1273" y="237" width="193" height="17" href="img/4.png"/>
+<path fill-rule="evenodd" d="M0 237.9H1255.6V73.3H0V237.9Z" class="g1_8"/>
+<path fill-rule="evenodd" d="M1273.4 237.9h192.9V73.3H1273.4V237.9Z" class="g2_8"/>
+<path fill-rule="evenodd" d="M96.5 437.3H429.2v-143H96.5v143Z" class="g3_8"/>
+<path fill-rule="evenodd" d="M429.2 437.3h575.9v-143H429.2v143Z" class="g3_8"/>
+<path fill-rule="evenodd" d="M96.5 526.5H429.2V481.9H96.5v44.6Z" class="g3_8"/>
+<path fill-rule="evenodd" d="M429.2 526.5h575.9V481.9H429.2v44.6Z" class="g3_8"/>
+<path fill-rule="evenodd" d="M96.5 681.1H429.2v-110H96.5v110Z" class="g3_8"/>
+<path fill-rule="evenodd" d="M429.2 681.1h575.9v-110H429.2v110Z" class="g3_8"/>
+<path d="M429.2 248.9v433" class="g4_8"/>
+<path d="M95.8 294.3h910" class="g5_8"/>
+<path d="M95.8 437.3h910m-910 44.6h910m-910 44.6h910m-910 44.6h910M96.5 248.9v433m908.6-433v433M95.8 249.7h910M95.8 681.1h910" class="g4_8"/>
+</svg>
